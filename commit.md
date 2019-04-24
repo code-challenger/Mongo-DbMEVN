@@ -1,1 +1,1 @@
-Fixing .doctrine-project.json to get website build working again on 4/16/2019 on 4/16/2019
+Update version information for documentation on 4/24/2019
