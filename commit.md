@@ -1,1 +1,1 @@
-Update homepage on 5/2/2019
+Fix wrong element deletion in popFirst and popLast on 5/7/2019
