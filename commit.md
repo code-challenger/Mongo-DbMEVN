@@ -1,1 +1,1 @@
-Starting docs for doctrine/mongodb on 5/10/2019
+Don't use ignore-platform-reqs when installing mongo-php-adapter on 5/16/2019
