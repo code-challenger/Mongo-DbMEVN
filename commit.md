@@ -1,1 +1,1 @@
-Don't use ignore-platform-reqs when installing mongo-php-adapter on 5/15/2019
+Don't use ignore-platform-reqs when installing mongo-php-adapter on 5/18/2019
