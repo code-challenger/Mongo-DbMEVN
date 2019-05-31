@@ -1,1 +1,1 @@
-Fix spacing around ! operator on 5/21/2019
+7 elements changed on 5/31/2019
